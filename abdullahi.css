@@ -1,0 +1,27 @@
+*body{
+    background-color:wheat;
+}
+
+.HEADER{
+    text-align: center;
+}
+
+/* .carrer{
+    flex
+} */
+.footer{
+    text-align: right;
+    color:darkkhaki;
+}
+.work{
+    text-align: right;
+    color:darkkhaki;
+  
+}
+.biological{
+    text-align: right;
+    color:darkkhaki;
+}
+.body1{
+    width:50%; 
+}
